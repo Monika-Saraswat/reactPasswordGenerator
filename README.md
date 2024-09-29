@@ -1,7 +1,7 @@
-<h1>React + Vite</h1>
+<h1><strong>React + Vite</strong></h1>
 <h2>Random Password Generator</h2>
 <p>This project is a <strong>Random Password Generator</strong> built using modern web technologies such as <strong>React</strong>, <strong>Vite</strong>, <strong>Tailwind CSS</strong>, and <strong>DaisyUI</strong>. It allows users to generate secure and customizable passwords with options for length, character types, and more.</p>
-h2>Live Demo</h2>
+<h2>Live Demo</h2>
 <p>You can explore the application at <a href="https://genpassfirst.netlify.app" target="_blank">Random Password Generator</a>.</p>
 <h2>Features</h2>
     <ul>
